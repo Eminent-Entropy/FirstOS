@@ -1,0 +1,15 @@
+D:\gerbster\Documents\VisualStudio\projects\OS2\OS2\OS2\bin\Debug\OS2.dll
+D:\gerbster\Documents\VisualStudio\projects\OS2\OS2\OS2\bin\Debug\OS2.pdb
+D:\gerbster\Documents\VisualStudio\projects\OS2\OS2\OS2\bin\Debug\Cosmos.Debug.Kernel.dll
+D:\gerbster\Documents\VisualStudio\projects\OS2\OS2\OS2\bin\Debug\Cosmos.System.dll
+D:\gerbster\Documents\VisualStudio\projects\OS2\OS2\OS2\bin\Debug\Cosmos.Common.dll
+D:\gerbster\Documents\VisualStudio\projects\OS2\OS2\OS2\bin\Debug\Cosmos.HAL.dll
+D:\gerbster\Documents\VisualStudio\projects\OS2\OS2\OS2\bin\Debug\Cosmos.Core.dll
+D:\gerbster\Documents\VisualStudio\projects\OS2\OS2\OS2\bin\Debug\Cosmos.System.pdb
+D:\gerbster\Documents\VisualStudio\projects\OS2\OS2\OS2\bin\Debug\Cosmos.Debug.Kernel.pdb
+D:\gerbster\Documents\VisualStudio\projects\OS2\OS2\OS2\bin\Debug\Cosmos.Common.pdb
+D:\gerbster\Documents\VisualStudio\projects\OS2\OS2\OS2\bin\Debug\Cosmos.HAL.pdb
+D:\gerbster\Documents\VisualStudio\projects\OS2\OS2\OS2\bin\Debug\Cosmos.Core.pdb
+D:\gerbster\Documents\VisualStudio\projects\OS2\OS2\OS2\obj\Debug\OS2.csprojResolveAssemblyReference.cache
+D:\gerbster\Documents\VisualStudio\projects\OS2\OS2\OS2\obj\Debug\OS2.dll
+D:\gerbster\Documents\VisualStudio\projects\OS2\OS2\OS2\obj\Debug\OS2.pdb
